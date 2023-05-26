@@ -1,4 +1,4 @@
-package transactionreplayer
+package main
 
 import (
 	"context"
